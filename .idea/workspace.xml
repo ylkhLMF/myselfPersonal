@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7244b22-0351-4f41-8ce7-144be1a3c48d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web01/html/表单标签.html" beforeDir="false" afterPath="$PROJECT_DIR$/web01/html/表单标签.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,15 +16,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="01_使用jQuery完成省市二级联动.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="01_使用jQuery完成省市二级联动.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web02Jquery/html/01_使用jQuery完成省市二级联动.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="141" column="39" selection-start-line="141" selection-start-column="33" selection-end-line="141" selection-end-column="39" />
+            <state relative-caret-position="501">
+              <caret line="141" column="47" lean-forward="true" selection-start-line="141" selection-start-column="47" selection-end-line="141" selection-end-column="47" />
               <folding>
                 <element signature="n#style#0;n#head#0;n#html#0;n#!!top" />
                 <element signature="e#123#209#0" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="表单标签.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web01/html/表单标签.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="547">
+              <caret line="30" column="11" selection-start-line="30" selection-start-column="11" selection-end-line="30" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -57,6 +66,7 @@
         <option value="$PROJECT_DIR$/web02Jquery/html/使用jQuery完成表格隔行变色.html" />
         <option value="$PROJECT_DIR$/web02Jquery/html/01_使用jQuery完成复选框的全选和全不选.html" />
         <option value="$PROJECT_DIR$/web02Jquery/html/01_使用jQuery完成省市二级联动.html" />
+        <option value="$PROJECT_DIR$/web01/html/表单标签.html" />
       </list>
     </option>
   </component>
@@ -159,26 +169,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.01_使用jQuery完成省市二级联动.html">
+  <component name="RunManager" selected="JavaScript Debug.表单标签.html">
     <configuration name="01_使用jQuery完成复选框的全选和全不选.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/myselfPersonal/web02Jquery/html/01_使用jQuery完成复选框的全选和全不选.html" />
     <configuration name="01_使用jQuery完成省市二级联动.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/myselfPersonal/web02Jquery/html/01_使用jQuery完成省市二级联动.html" />
-    <configuration name="div+css实现首页.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/myselfPersonal/web02Jquery/html/div+css实现首页.html" />
-    <configuration name="html框架.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/myselfPersonal/web01/html/html框架.html" />
-    <configuration name="使用jQuery完成表格隔行变色.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/myselfPersonal/web02Jquery/html/使用jQuery完成表格隔行变色.html" />
+    <configuration name="表单标签.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/myselfPersonal/web01/html/表单标签.html" />
+    <configuration name="div+css实现首页.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/myselfPersonal/web01/html/div+css实现首页.html" />
+    <configuration name="regist.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/myselfPersonal/web01/html/regist.html" />
     <list>
-      <item itemvalue="JavaScript Debug.div+css实现首页.html (1)" />
-      <item itemvalue="JavaScript Debug.html框架.html" />
-      <item itemvalue="JavaScript Debug.使用jQuery完成表格隔行变色.html" />
       <item itemvalue="JavaScript Debug.01_使用jQuery完成复选框的全选和全不选.html" />
       <item itemvalue="JavaScript Debug.01_使用jQuery完成省市二级联动.html" />
+      <item itemvalue="JavaScript Debug.div+css实现首页.html" />
+      <item itemvalue="JavaScript Debug.regist.html" />
+      <item itemvalue="JavaScript Debug.表单标签.html" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.表单标签.html" />
+        <item itemvalue="JavaScript Debug.regist.html" />
+        <item itemvalue="JavaScript Debug.div+css实现首页.html" />
         <item itemvalue="JavaScript Debug.01_使用jQuery完成省市二级联动.html" />
         <item itemvalue="JavaScript Debug.01_使用jQuery完成复选框的全选和全不选.html" />
-        <item itemvalue="JavaScript Debug.使用jQuery完成表格隔行变色.html" />
-        <item itemvalue="JavaScript Debug.html框架.html" />
-        <item itemvalue="JavaScript Debug.div+css实现首页.html (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -199,24 +209,25 @@
       <workItem from="1544185704293" duration="3266000" />
       <workItem from="1544407237222" duration="10041000" />
       <workItem from="1544439947499" duration="2275000" />
-      <workItem from="1544497270101" duration="2517000" />
+      <workItem from="1544497270101" duration="2762000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20421000" />
+    <option name="totallyTimeSpent" value="20666000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1060" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24986793" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24986793" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32901832" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32901832" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -319,11 +330,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web01/html/div+css实现首页.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web02Jquery/img/f001a62f-a49d-4a4d-b56f-2b6908a0002c_g.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -331,13 +337,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="513">
           <caret line="22" column="52" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web02Jquery/html/div+css实现首页.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="104" column="9" lean-forward="true" selection-start-line="104" selection-start-column="9" selection-end-line="104" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -362,22 +361,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web01/html/表单标签.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/web01/html/表单标签属性介绍.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-236" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/web02Jquery/html/div+css实现首页.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="104" column="9" lean-forward="true" selection-start-line="104" selection-start-column="9" selection-end-line="104" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web01/html/div+css实现首页.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web01/html/regist.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2349" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/web02Jquery/html/01_使用jQuery完成省市二级联动.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="141" column="39" selection-start-line="141" selection-start-column="33" selection-end-line="141" selection-end-column="39" />
+        <state relative-caret-position="501">
+          <caret line="141" column="47" lean-forward="true" selection-start-line="141" selection-start-column="47" selection-end-line="141" selection-end-column="47" />
           <folding>
             <element signature="n#style#0;n#head#0;n#html#0;n#!!top" />
             <element signature="e#123#209#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web01/html/表单标签.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="547">
+          <caret line="30" column="11" selection-start-line="30" selection-start-column="11" selection-end-line="30" selection-end-column="11" />
         </state>
       </provider>
     </entry>
