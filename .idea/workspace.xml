@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7244b22-0351-4f41-8ce7-144be1a3c48d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/web01/html/表单标签.html" beforeDir="false" afterPath="$PROJECT_DIR$/web01/html/表单标签.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web02Jquery/html/01_使用jQuery完成省市二级联动.html" beforeDir="false" afterPath="$PROJECT_DIR$/web02Jquery/html/01_使用jQuery完成省市二级联动.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,24 +17,55 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="01_使用jQuery完成省市二级联动.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web02Jquery/html/01_使用jQuery完成省市二级联动.html">
+      <file leaf-file-name="使用插件表单校验.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web02Jquery/html/使用插件表单校验.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="501">
-              <caret line="141" column="47" lean-forward="true" selection-start-line="141" selection-start-column="47" selection-end-line="141" selection-end-column="47" />
+            <state relative-caret-position="918">
+              <caret line="34" column="44" selection-start-line="34" selection-start-column="44" selection-end-line="34" selection-end-column="44" />
               <folding>
-                <element signature="n#style#0;n#head#0;n#html#0;n#!!top" />
-                <element signature="e#123#209#0" />
+                <element signature="n#style#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="表单标签.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web01/html/表单标签.html">
+      <file leaf-file-name="01_使用jQuery完成注册页面表单校验.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web02Jquery/html/01_使用jQuery完成注册页面表单校验.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="547">
-              <caret line="30" column="11" selection-start-line="30" selection-start-column="11" selection-end-line="30" selection-end-column="11" />
+            <state relative-caret-position="574">
+              <caret line="136" column="45" lean-forward="true" selection-start-line="136" selection-start-column="45" selection-end-line="136" selection-end-column="45" />
+              <folding>
+                <element signature="e#2845#2851#0" expanded="true" />
+                <element signature="e#2863#2869#0" expanded="true" />
+                <element signature="e#3049#3055#0" expanded="true" />
+                <element signature="e#3061#3067#0" expanded="true" />
+                <element signature="e#3067#3073#0" expanded="true" />
+                <element signature="e#3073#3079#0" expanded="true" />
+                <element signature="e#3090#3096#0" expanded="true" />
+                <element signature="e#3102#3108#0" expanded="true" />
+                <element signature="e#3137#3143#0" expanded="true" />
+                <element signature="n#style#0;n#em#0;n#td#1;n#tr#1;n#table#0;n#div#0;n#div#0;n#form#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#3812#3818#0" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#td#1;n#tr#6;n#table#0;n#div#0;n#div#0;n#form#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#label#0;n#span#0;n#td#1;n#tr#6;n#table#0;n#div#0;n#div#0;n#form#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#5293#5299#0" expanded="true" />
+                <element signature="e#5299#5305#0" expanded="true" />
+                <element signature="e#5305#5311#0" expanded="true" />
+                <element signature="e#5311#5317#0" expanded="true" />
+                <element signature="e#5317#5323#0" expanded="true" />
+                <element signature="e#5323#5329#0" expanded="true" />
+                <element signature="e#5340#5346#0" expanded="true" />
+                <element signature="e#5346#5352#0" expanded="true" />
+                <element signature="e#5352#5358#0" expanded="true" />
+                <element signature="e#5358#5364#0" expanded="true" />
+                <element signature="e#5364#5370#0" expanded="true" />
+                <element signature="e#5370#5376#0" expanded="true" />
+                <element signature="e#5393#5399#0" expanded="true" />
+                <element signature="e#5399#5405#0" expanded="true" />
+                <element signature="e#6088#6094#0" expanded="true" />
+                <element signature="e#6147#6153#0" expanded="true" />
+                <element signature="e#6188#6194#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -43,10 +75,15 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>error</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
@@ -65,8 +102,10 @@
         <option value="$PROJECT_DIR$/web02Jquery/html/div+css实现首页.html" />
         <option value="$PROJECT_DIR$/web02Jquery/html/使用jQuery完成表格隔行变色.html" />
         <option value="$PROJECT_DIR$/web02Jquery/html/01_使用jQuery完成复选框的全选和全不选.html" />
-        <option value="$PROJECT_DIR$/web02Jquery/html/01_使用jQuery完成省市二级联动.html" />
         <option value="$PROJECT_DIR$/web01/html/表单标签.html" />
+        <option value="$PROJECT_DIR$/web02Jquery/html/01_使用jQuery完成省市二级联动.html" />
+        <option value="$PROJECT_DIR$/web02Jquery/html/使用插件表单校验.html" />
+        <option value="$PROJECT_DIR$/web02Jquery/html/01_使用jQuery完成注册页面表单校验.html" />
       </list>
     </option>
   </component>
@@ -92,6 +131,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -102,24 +142,7 @@
             <path>
               <item name="myselfPersonal" type="b2602c69:ProjectViewProjectNode" />
               <item name="myselfPersonal" type="462c0819:PsiDirectoryNode" />
-              <item name="web01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myselfPersonal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myselfPersonal" type="462c0819:PsiDirectoryNode" />
-              <item name="web01" type="462c0819:PsiDirectoryNode" />
-              <item name="html" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myselfPersonal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myselfPersonal" type="462c0819:PsiDirectoryNode" />
               <item name="web02Jquery" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myselfPersonal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myselfPersonal" type="462c0819:PsiDirectoryNode" />
-              <item name="web02Jquery" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="myselfPersonal" type="b2602c69:ProjectViewProjectNode" />
@@ -131,13 +154,12 @@
               <item name="myselfPersonal" type="b2602c69:ProjectViewProjectNode" />
               <item name="myselfPersonal" type="462c0819:PsiDirectoryNode" />
               <item name="web02Jquery" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -151,10 +173,10 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\gitHub\myselfPersonal\web02Jquery\html" />
-      <recent name="E:\gitHub\myselfPersonal\web02Jquery\css" />
       <recent name="E:\gitHub\myselfPersonal\web02Jquery\img" />
+      <recent name="E:\gitHub\myselfPersonal\web02Jquery\html" />
       <recent name="E:\gitHub\myselfPersonal\web02Jquery\js" />
+      <recent name="E:\gitHub\myselfPersonal\web02Jquery\css" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -169,26 +191,27 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.表单标签.html">
-    <configuration name="01_使用jQuery完成复选框的全选和全不选.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/myselfPersonal/web02Jquery/html/01_使用jQuery完成复选框的全选和全不选.html" />
+  <component name="RunManager" selected="JavaScript Debug.01_使用jQuery完成注册页面表单校验.html">
     <configuration name="01_使用jQuery完成省市二级联动.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/myselfPersonal/web02Jquery/html/01_使用jQuery完成省市二级联动.html" />
+    <configuration name="01_使用jQuery完成注册页面表单校验.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/myselfPersonal/web02Jquery/html/01_使用jQuery完成注册页面表单校验.html" />
     <configuration name="表单标签.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/myselfPersonal/web01/html/表单标签.html" />
+    <configuration name="使用插件表单校验.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/myselfPersonal/web02Jquery/html/使用插件表单校验.html" />
     <configuration name="div+css实现首页.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/myselfPersonal/web01/html/div+css实现首页.html" />
     <configuration name="regist.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/myselfPersonal/web01/html/regist.html" />
     <list>
-      <item itemvalue="JavaScript Debug.01_使用jQuery完成复选框的全选和全不选.html" />
       <item itemvalue="JavaScript Debug.01_使用jQuery完成省市二级联动.html" />
       <item itemvalue="JavaScript Debug.div+css实现首页.html" />
       <item itemvalue="JavaScript Debug.regist.html" />
       <item itemvalue="JavaScript Debug.表单标签.html" />
+      <item itemvalue="JavaScript Debug.01_使用jQuery完成注册页面表单校验.html" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.01_使用jQuery完成注册页面表单校验.html" />
+        <item itemvalue="JavaScript Debug.01_使用jQuery完成省市二级联动.html" />
         <item itemvalue="JavaScript Debug.表单标签.html" />
         <item itemvalue="JavaScript Debug.regist.html" />
         <item itemvalue="JavaScript Debug.div+css实现首页.html" />
-        <item itemvalue="JavaScript Debug.01_使用jQuery完成省市二级联动.html" />
-        <item itemvalue="JavaScript Debug.01_使用jQuery完成复选框的全选和全不选.html" />
       </list>
     </recent_temporary>
   </component>
@@ -209,18 +232,19 @@
       <workItem from="1544185704293" duration="3266000" />
       <workItem from="1544407237222" duration="10041000" />
       <workItem from="1544439947499" duration="2275000" />
-      <workItem from="1544497270101" duration="2762000" />
+      <workItem from="1544497270101" duration="7931000" />
+      <workItem from="1544521946136" duration="4476000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20666000" />
+    <option name="totallyTimeSpent" value="30311000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1060" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24986793" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24986793" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -246,6 +270,16 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/web02Jquery/html/使用插件表单校验.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+          <folding>
+            <element signature="n#style#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/web02Jquery/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
@@ -381,21 +415,79 @@
         <state relative-caret-position="-2349" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/web01/html/表单标签.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="27" column="27" lean-forward="true" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/web-forms.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="785">
+          <caret line="379" column="22" selection-start-line="379" selection-start-column="22" selection-end-line="379" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/web02Jquery/html/01_使用jQuery完成省市二级联动.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="501">
-          <caret line="141" column="47" lean-forward="true" selection-start-line="141" selection-start-column="47" selection-end-line="141" selection-end-column="47" />
+        <state relative-caret-position="1107">
+          <caret line="88" column="17" selection-start-line="88" selection-start-column="17" selection-end-line="88" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web02Jquery/js/messages_zh.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web02Jquery/js/jquery.validate.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web02Jquery/html/使用插件表单校验.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="34" column="44" selection-start-line="34" selection-start-column="44" selection-end-line="34" selection-end-column="44" />
           <folding>
-            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" />
-            <element signature="e#123#209#0" />
+            <element signature="n#style#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web01/html/表单标签.html">
+    <entry file="file://$PROJECT_DIR$/web02Jquery/html/01_使用jQuery完成注册页面表单校验.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="547">
-          <caret line="30" column="11" selection-start-line="30" selection-start-column="11" selection-end-line="30" selection-end-column="11" />
+        <state relative-caret-position="574">
+          <caret line="136" column="45" lean-forward="true" selection-start-line="136" selection-start-column="45" selection-end-line="136" selection-end-column="45" />
+          <folding>
+            <element signature="e#2845#2851#0" expanded="true" />
+            <element signature="e#2863#2869#0" expanded="true" />
+            <element signature="e#3049#3055#0" expanded="true" />
+            <element signature="e#3061#3067#0" expanded="true" />
+            <element signature="e#3067#3073#0" expanded="true" />
+            <element signature="e#3073#3079#0" expanded="true" />
+            <element signature="e#3090#3096#0" expanded="true" />
+            <element signature="e#3102#3108#0" expanded="true" />
+            <element signature="e#3137#3143#0" expanded="true" />
+            <element signature="n#style#0;n#em#0;n#td#1;n#tr#1;n#table#0;n#div#0;n#div#0;n#form#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#3812#3818#0" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#td#1;n#tr#6;n#table#0;n#div#0;n#div#0;n#form#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#span#0;n#td#1;n#tr#6;n#table#0;n#div#0;n#div#0;n#form#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#5293#5299#0" expanded="true" />
+            <element signature="e#5299#5305#0" expanded="true" />
+            <element signature="e#5305#5311#0" expanded="true" />
+            <element signature="e#5311#5317#0" expanded="true" />
+            <element signature="e#5317#5323#0" expanded="true" />
+            <element signature="e#5323#5329#0" expanded="true" />
+            <element signature="e#5340#5346#0" expanded="true" />
+            <element signature="e#5346#5352#0" expanded="true" />
+            <element signature="e#5352#5358#0" expanded="true" />
+            <element signature="e#5358#5364#0" expanded="true" />
+            <element signature="e#5364#5370#0" expanded="true" />
+            <element signature="e#5370#5376#0" expanded="true" />
+            <element signature="e#5393#5399#0" expanded="true" />
+            <element signature="e#5399#5405#0" expanded="true" />
+            <element signature="e#6088#6094#0" expanded="true" />
+            <element signature="e#6147#6153#0" expanded="true" />
+            <element signature="e#6188#6194#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
