@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>hello vue</title>
+    <script src="../js/vue.js"></script>
+
+</head>
+<body>
+
+    <!--这是view-->
+    <div id="app">
+       <p> {{ message }}</p>
+        <input type="text" v-model="message">
+    </div>
+    <script type="text/javascript">
+
+        // 定义一个modle
+        var first ={
+            message:'Hello Vue.js'
+        }
+        // ViewModel连接view和modle
+        // ViewModel必须放在他们下面
+        new Vue({
+            el:'#app',
+            data: first
+        })
+    </script>
+
+</body>
+</html>
